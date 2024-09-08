@@ -16,10 +16,10 @@ The **Prototypes Management System** is a Java-based application developed for *
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/prototypes-management-system.git
-   cd prototypes-management-system
+   git clone https://github.com/RachadDoueik/electrical-appliances-prototypes-MIS.git
 
-
+   ```
+  Note:  You can use any IDE you like , but its recommended to use the latest version of Eclipse IDE , which was used to build the entire project.
 
 ## Usage
 - Use the Java Swing interface to create, manage, and delete prototypes and related tasks.
